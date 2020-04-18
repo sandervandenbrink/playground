@@ -1,0 +1,17 @@
+{
+  "name": "image-merge",
+  "version": "1.0.0",
+  "description": "Merge images on top of each other",
+  "main": "main.js",
+  "dependencies": {
+    "jimp": "^0.2.28",
+    "shelljs": "^0.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Sander van den Brink",
+  "license": "ISC"
+}

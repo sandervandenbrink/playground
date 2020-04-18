@@ -1,0 +1,14 @@
+{
+  "name": "heic-converter",
+  "version": "1.0.0",
+  "description": "Convert HEIC files to JPEGS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sander van den Brink",
+  "license": "ISC",
+  "dependencies": {
+    "imagemagick": "^0.1.3"
+  }
+}
